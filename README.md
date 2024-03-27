@@ -4,7 +4,7 @@ Este repositório contém soluções e discussões sobre o desafio de lógica ap
 
 ## Estratégia de Solução
 
-Para os desafios, utilizei Java, dada minha maior experiência com essa linguagem. Especificamente, no desafio dos "Três Interruptores", desenvolvi uma solução em Java que identificava, em uma única visita, qual interruptor controlava cada lâmpada. Essa abordagem destacou a eficácia de usar ferramentas familiares para resolver problemas complexos de forma criativa.
+Para os desafios, utilizei Java, dada minha maior experiência com essa linguagem.
 
 ## Contato
 
