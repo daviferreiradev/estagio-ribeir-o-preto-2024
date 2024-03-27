@@ -1,0 +1,21 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+a) 1, 3, 5, 7, ___
+b) 2, 4, 8, 16, 32, 64, ____
+c) 0, 1, 4, 9, 16, 25, 36, ____
+d) 4, 16, 36, 64, ____
+e) 1, 1, 2, 3, 5, 8, ____
+f) 2, 10, 12, 16, 17, 18, 19, ____
+
+Respostas:
+a) Composta por números ímpares incrementados de 2 em 2. Assim, após o 7, o próximo número seria 9.
+
+b) Cada termo é o dobro do anterior. Depois de 64, o próximo termo seria 64 * 2 = 128.
+
+c) O próximo termo, após 36 (6²), seria 7² = 49.
+
+d) Começando de 2² = 4, e incrementando o quadrado do próximo número inteiro par. Após 64 (8²), viria 10²= 100.
+
+e) Esta é a sequência de Fibonacci, onde cada termo é a soma dos dois anteriores. Após 8, o próximo número seria 8 + 5 = 13.
+
+f) Todos os números começam com a letra "D", logo, o próximo número é o 200. 
