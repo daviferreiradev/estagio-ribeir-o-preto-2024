@@ -10,5 +10,5 @@ Para os desafios, utilizei Java, dada minha maior experiência com essa linguage
 
 Para mais informações, discussões sobre as soluções ou qualquer outra questão relacionada ao desafio, sinta-se à vontade para entrar em contato.
 
-[(31) 99585-1775]
+[WhatsApp: (31) 99585-1775]
 [daviferreiradev@gmail.com]
